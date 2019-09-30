@@ -1,0 +1,11 @@
+Agile 
+Work for methodology
+
+
+
+Step 1: Create github respository.
+Step 2: Clone the respository to the homework folder. 
+Step 3: npm init in terminal
+Step 4: npmjs.com and seach for inquirer
+Step 5: npm i inquirer in terminal
+Step 6: Beging Writing code 
