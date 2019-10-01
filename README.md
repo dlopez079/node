@@ -12,18 +12,19 @@ Categories you can select from:
 3. concert-this (so you can sarch for a concert pertaining to your favorite artist)
 4. do-what-it-says (so you can search for the items placed in the random.txt file)
 
-4. Include screenshots, gifs or videos of the app functioning
-Here is a video to the application: https://drive.google.com/file/d/1NInMtsuld2cZGzav1kiO0QsY4-xLhHST/view
+4. Here is a video to the application: https://drive.google.com/file/d/1NInMtsuld2cZGzav1kiO0QsY4-xLhHST/view
 
-5. Contain a link to a deployed version of the app
-Here is a link to the application: https://dlopez079.github.io/node/
+5. Here is a link to the application: https://dlopez079.github.io/node/
 
-6. Clearly list the technologies used in the app
-The application is using: 
+6. The application is using: 
     1. node 
-    2. npm packages
-    3. different API resources
-    4. javascript
+    2. axios npm package
+    3. dotenv npm package
+    4. express npm package
+    5. inquirer npm package
+    6. moment npm package
+    7. node-spotify-api 
+    8. Vanilla Javascript
 
 7. State your role in the app development
 I am the only person to touch this application.  I did not work in the team for this. 
